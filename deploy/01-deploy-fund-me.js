@@ -33,6 +33,6 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
         process.env.ETHERSCAN_API_KEY
     ) {
     }
-    log("------------------------------")
+    log("--------------------------------")
 }
 module.exports.tags = ["all", "fundMe"]
