@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Sample Hardhat Project -Fund Me
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic Hardhat Contract use case. It comes with a sample contract about Funding contract which is useful for contract developer, and also a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
@@ -11,8 +11,6 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-git branch -m master main
-
 
 # local network deploy results: 
 ![image](https://user-images.githubusercontent.com/57165451/185225666-0566b391-92ae-4f4f-abf6-28179b7f442f.png)
