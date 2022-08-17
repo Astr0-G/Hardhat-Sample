@@ -1,4 +1,4 @@
-# Sample Hardhat Project -Fund Me
+# Sample Hardhat Project - Fund Me
 
 This project demonstrates a basic Hardhat Contract use case. It comes with a sample contract about Funding contract which is useful for contract developer, and also a test for that contract, and a script that deploys that contract.
 
